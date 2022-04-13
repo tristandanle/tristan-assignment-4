@@ -11,6 +11,7 @@ Requirements:
 ****************
 
 course1.csv
+===========
 
 Student ID,Student Name,Course,Grade
 28,Justin Conrad,COMPSCI 310,99
@@ -22,6 +23,7 @@ Student ID,Student Name,Course,Grade
 ... rest of lines omitted ...
 
 course2.csv
+===========
 
 Student ID,Student Name,Course,Grade
 89,Alison Murray,APMTH 134,93
@@ -32,6 +34,7 @@ Student ID,Student Name,Course,Grade
 ... rest of lines omitted ...
 
 course3.csv
+===========
 
 Student ID,Student Name,Course,Grade
 15,Padraig Barry,STAT 236,93
