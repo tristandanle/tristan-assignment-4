@@ -13,25 +13,25 @@ Requirements:
 course1.csv
 ===========
 
-  Student ID,Student Name,Course,Grade br />
-  28,Justin Conrad,COMPSCI 310,99br />
-  37,Simone Scott,COMPSCI 312,91br />
-  91,Donald Schultz,COMPSCI 321,87br />
-  19,Blair Heaton,COMPSCI 309,87br />
-  79,Kerys John,COMPSCI 319,87br />
-  64,Jameson Best,COMPSCI 316,86br />
-  ... rest of lines omitted ...br />
+  Student ID,Student Name,Course,Grade <br />
+  28,Justin Conrad,COMPSCI 310,99<br />
+  37,Simone Scott,COMPSCI 312,91<br />
+  91,Donald Schultz,COMPSCI 321,87<br />
+  19,Blair Heaton,COMPSCI 309,87<br />
+  79,Kerys John,COMPSCI 319,87<br />
+  64,Jameson Best,COMPSCI 316,86<br />
+  ... rest of lines omitted ...<br />
 
 course2.csv
 ===========
 
-  Student ID,Student Name,Course,Gradebr />
-  89,Alison Murray,APMTH 134,93br />
-  59,Amber-Rose Austin,APMTH 129,93br />
-  68,Aran Rice,APMTH 131,89br />
-  44,Brandan Mcbride,APMTH 127,89br />
-  32,Veronica Dodd,APMTH 125,88br />
-  ... rest of lines omitted ...br />
+  Student ID,Student Name,Course,Grade
+  89,Alison Murray,APMTH 134,93
+  59,Amber-Rose Austin,APMTH 129,93
+  68,Aran Rice,APMTH 131,89
+  44,Brandan Mcbride,APMTH 127,89
+  32,Veronica Dodd,APMTH 125,88
+  ... rest of lines omitted ...
 
 course3.csv
 ===========
